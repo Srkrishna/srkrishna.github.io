@@ -1,4 +1,3 @@
-#url: http://kirbyt.github.io
 baseurl: /my_site
 
 # Site Settings
@@ -11,4 +10,4 @@ google-tracking-id:
 # Default career thumbnail image.
 career-img: 
 
-exclude: ["Rakefile", "LICENSE", "readme.markdown"]
+exclude: ["Rakefile"]
