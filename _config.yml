@@ -1,0 +1,14 @@
+#url: http://kirbyt.github.io
+baseurl: /my_site
+
+# Site Settings
+title: radha krishnan
+description:
+keywords: "jekyll, theme"
+google-tracking-id:
+
+# Career Settings
+# Default career thumbnail image.
+career-img: 
+
+exclude: ["Rakefile", "LICENSE", "readme.markdown"]
