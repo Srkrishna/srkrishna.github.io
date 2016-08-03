@@ -1,7 +1,7 @@
 ---
 layout: null
-title: 2012 - 2015
+title: 2010 - 2012
 subtitle:
-image: "img/timeline/2.jpg"
+image: "img/timeline/1.jpg"
 ---
-won 1st prices in the robotics competion and participated in the national round of Indo Robo Legue in 2013 held at IIT Bombay
+Completed HSC in vedhha vikass Hr.sec. school,selam with 66.3%

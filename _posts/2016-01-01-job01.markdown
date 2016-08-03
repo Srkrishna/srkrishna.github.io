@@ -1,0 +1,7 @@
+---
+layout: null
+title: 2016- Present
+subtitle:
+image: "img/timeline/4.jpg"
+---
+completed (B.E Computer science and Engineering)degree in IFET College of Engineering with the 6.0

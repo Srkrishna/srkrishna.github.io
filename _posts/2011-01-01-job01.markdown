@@ -1,7 +1,0 @@
----
-layout: null
-title: 2010 - 2012
-subtitle:
-image: "img/timeline/1.jpg"
----
-Completed HSC in vedhha vikass Hr.sec. school,selam with 66.3%

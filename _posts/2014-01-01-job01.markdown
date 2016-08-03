@@ -1,7 +1,7 @@
 ---
 layout: null
-title: 2016- Present
+title: 2012 - 2015
 subtitle:
-image: "img/timeline/4.jpg"
+image: "img/timeline/2.jpg"
 ---
-completed (B.E Computer science and Engineering)degree in IFET College of Engineering with the 6.0
+won 1st prices in the robotics competion and participated in the national round of Indo Robo Legue in 2013 held at IIT Bombay
