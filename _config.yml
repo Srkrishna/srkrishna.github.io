@@ -11,3 +11,5 @@ google-tracking-id:
 career-img:
 
 exclude: ["Rakefile"]
+
+theme: jekyll-theme-cayman
